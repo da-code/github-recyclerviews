@@ -20,3 +20,5 @@ Android Kotlin project with recyclerviews for Github API's
 **Future improvements:**
 * Pagination library may simplify the ScrollListener logic.
 * Room will be added.  With the current in memory cache offering, the submitlist to the adapter doesn't fire the comparater, so it must be overridden, but room should solve this issue.
+
+![Issue List](https://user-images.githubusercontent.com/23284387/87423454-576a8e00-c5a8-11ea-9447-713d4daabaa3.png)
